@@ -9,8 +9,8 @@ def app():
         st.markdown('Created by: [John Ndelembi](https://github.com/Johnndelembi)')
         st.markdown('Contact via: [Whatsapp](https://wa.link/p7ke9l)')
         st.markdown('Contact via: [E-mail](https://williamjohnie61@gmail.com)')
-        st.write(' ### ')
-        st.info(' Page still under construction..')
+    st.write(' ### ')
+    st.info(' Page still under construction..')
 
 
         
