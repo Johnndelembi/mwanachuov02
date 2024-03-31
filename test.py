@@ -95,7 +95,7 @@ def app():
                 container.text('Reg :'+st.session_state.regnumber )
                 
                 st.write(' ### ')
-
+                st.subheader(' :green[+ NEWS FEED] ')
                 container1 = st.container(border=True)
                 container1.subheader('Welcome to the AIESEC Career Fair 2024')
                 container1.markdown(' ***Where talent meets opportunity*** 💯 ')
